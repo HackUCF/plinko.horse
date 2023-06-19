@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.wrapper {
+    max-width:1050px;
+}
+
+section {
+    max-width:1050px;
+}
+
+#header {  
+    position: absolute;
+    nav {  
+      max-width: 1050px;
+      ul {
+        li {
+          &.downloads {
+            float: left;
+            margin-left: 6px;
+          }
+        }
+      }
+    }
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .left-container, .right-container {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+  }
