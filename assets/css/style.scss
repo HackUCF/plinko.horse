@@ -22,6 +22,17 @@ section {
             float: left;
             margin-left: 6px;
           }
+          a {
+            color: black;
+            background: linear-gradient(#ffc904, #ffcc00);
+            background-color: #b79200;            
+            border: 1px solid #b79200;
+            &.hover {                
+                background: linear-gradient(#b38d04, #b79200);
+                background-color: #b79200;                
+                border: 1px solid #b79200;
+            }
+          }
         }
       }
     }
