@@ -14,15 +14,17 @@ section {
 
 #header {  
     position: absolute;
+    display: flex;
     nav {  
       max-width: 1050px;
       ul {
         li {
+          display: flex;
           &.downloads {
-            float: left;
             margin-left: 6px;
           }
           a {
+            display: flex;
             color: black;
             background: linear-gradient(#ffc904, #ffcc00);
             background-color: #b79200;            
@@ -37,6 +39,69 @@ section {
       }
     }
   }
+
+  #hpcc-header {
+    display: flex;
+    flex-direction: row;
+    margin: 50;
+    #padding: 50;
+    
+  z-index: 100;
+  #left:0;
+  #top: 0px;
+  #height: 60px;
+  width: 100%;
+  #position: fixed;
+  background: url(../images/nav-bg.gif) #353535;
+  border-bottom: 4px solid #434343;
+  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+  display: flex;
+  align-items: start;
+  div {    
+    #max-width: 1050px;
+    #margin: 0 auto;
+    #padding: 0 10px;
+    #background: blue;
+    width: 100%;
+    #margin: 6px auto;
+    #margin: 20px;
+
+
+    max-width:1050px;
+    margin:0 auto;
+    position:relative;
+    #padding: 0 20px;
+    padding: 10px;
+    a {
+      color: black;    
+      border: 1px solid #b79200;
+      background: linear-gradient(#ffc904, #ffcc00);
+      border-radius: 2px;
+      box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
+
+      background-color: #93bd20;
+      padding: 10px 12px;
+      #margin-top: 6px;
+      margin-right: 6px;
+
+      line-height:14px;
+      font-size:14px;
+      display:inline-block;
+      text-align:center;
+
+      &:hover {
+        background: linear-gradient(#b38d04, #b79200);
+        background-color: #b79200;                
+        border: 1px solid #b79200;
+        box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
+      }
+    }
+  }
+  }
+
+section {  
+  margin-top: 0px;
+}
 
   .container {
     display: flex;
