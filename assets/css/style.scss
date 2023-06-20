@@ -83,6 +83,7 @@ section {
       padding: 10px 12px;
       #margin-top: 6px;
       margin-right: 6px;
+      margin-bottom: 6px;
 
       line-height:14px;
       font-size:14px;
@@ -107,9 +108,27 @@ section {
   margin-top: 0px;
 }
 
+.list-container {
+  display: inline-block;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.list-container ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 50px;
+}
+
+.list-container li {
+  padding: 3px;
+}
+
   .container {
     display: flex;
     align-items: center;
+    flex-direction: row;
   }
   
   .left-container, .right-container {

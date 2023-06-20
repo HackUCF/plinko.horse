@@ -5,12 +5,16 @@
 layout: default
 ---
 
-# HPCC1 is Oct 7-8, 2023
-#### (more details coming soon)
+<div id="title">
+<h1>HPCC1 is Oct 7-8, 2023</h1>
+<p>(more details coming soon)
+</p>
+<div>
 
 <img src="/assets/hpcc0_group_overhead.jpg" />
 
-<h3>The Horse Plinko Cyber Challenge (HPCC) is a cyber defense competition hosted as a joint effort between the University of Central Florida’s Collegiate Cybersecurity Competitions (C3) Team and Hack@UCF. It is 100% student-run and student-developed. In the hackathon spirit, the first HPCC was developed (from conception to competition day) in a little over a month. While the scope has increased since then, the core remains the same.</h3>
+<h3 style="margin: 15px; text-align: center">The Horse Plinko Cyber Challenge (HPCC) is a cyber defense competition hosted as a joint effort between the University of Central Florida’s Collegiate Cybersecurity Competitions (C3) Team and Hack@UCF. It is 100% student-run and student-developed. In the hackathon spirit, the first HPCC was developed (from conception to competition day) in a little over a month. While the scope has increased since then, the core remains the same.</h3>
+
 
 <div class="container">
   <div class="left-container">
