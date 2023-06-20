@@ -8,13 +8,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <script>
-      $(function () {
-          $('nav li a').filter(function () {
-              return this.href === location.href;
-          }).addClass('active');
-      });
-    </script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -29,10 +22,10 @@
     <div id="hpcc-header">
       <!--<nav>-->
       <div>
-        <a href="/">Home</a>
-        <a href="/resources">Resources</a>
-        <a href="/sponsors">Sponsors</a>
-        <a href="/past-winners">Past Winners</a>
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include pages_list %}
+      
       <!-- </nav>-->
       </div>
     </div><!-- end header -->

@@ -39,7 +39,9 @@ section {
       }
     }
   }
-
+.active {
+  color: pink;
+}
   #hpcc-header {
     display: flex;
     flex-direction: row;
@@ -90,7 +92,7 @@ section {
       display:inline-block;
       text-align:center;
 
-      &:hover {
+      &:hover, &.active {
         background: linear-gradient(#b38d04, #b79200);
         background-color: #b79200;                
         border: 1px solid #b79200;
@@ -144,3 +146,4 @@ section {
       flex-direction: column-reverse;
     }
   }
+

@@ -2,10 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: "Past Winners"
 layout: default
+group: "navigation"
 ---
 
-# Past Winners  
 ### HPCC0, May 2023
 
 
