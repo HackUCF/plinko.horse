@@ -15,7 +15,8 @@ group: "navigation"
 
 <img src="/assets/hpcc0_group_overhead.jpg" />
 
-<h3 style="margin: 15px; text-align: center">The Horse Plinko Cyber Challenge (HPCC) is a cyber defense competition hosted as a joint effort between the University of Central Florida’s Collegiate Cybersecurity Competitions (C3) Team and Hack@UCF. It is 100% student-run and student-developed. In the hackathon spirit, the first HPCC was developed (from conception to competition day) in a little over a month. While the scope has increased since then, the core remains the same.</h3>
+<h2 style="margin: 15px; text-align: center">The Horse Plinko Cyber Challenge (HPCC) is a student-run cyber defense competition hosted at the University of Central Florida.</h2>
+<div style="margin: 15px; text-align: center">It is a joint effort between UCF's Collegiate Cybersecurity Competitions (C3) Team and Hack@UCF. In the hackathon spirit, the first HPCC was developed (from conception to competition day) in a little over a month. While the scope has expanded since then, the core principles remain the same.</div>
 
 
 <div class="container">
@@ -23,13 +24,13 @@ group: "navigation"
     <img src="/assets/hpcc0_section1.jpg" />
   </div>
   <div class="right-container">
-    <h3>Horse Plinko is a beginner-friendly event. We work on a “low skill floor, high skill ceiling” basis. New players should feel challenged but not overwhelmed, and experienced players should have a chance to show off their skills.</h3>
+    Horse Plinko is a beginner-friendly event. We work on a “low skill floor, high skill ceiling” basis. New players should feel challenged but not overwhelmed, and experienced players should have a chance to show off their skills.
   </div>
 </div>
 
 <div class="container container-rev">
   <div class="left-container">
-    <h3>Horse Plinko gives players practical cybersecurity experience. We focus on skills that are useful in the industry (Linux/Windows system administration, SIEM and firewall management, best practices, and more) and strive to reward players for doing the basics consistently and thoroughly.</h3>
+  Horse Plinko gives players practical cybersecurity experience. We focus on skills that are useful in the industry (Linux/Windows system administration, SIEM and firewall management, best practices, and more) and strive to reward players for doing the basics consistently and thoroughly.
   </div>
   <div class="right-container">  
     <img src="/assets/hpcc0_section2.jpg" />
@@ -41,6 +42,6 @@ group: "navigation"
     <img src="/assets/hpcc0_section3.jpg" />
   </div>
   <div class="right-container">
-  <h3>Horse Plinko is a good time. We believe that professionalism and fun can coexist, and that students involved in an active community of their peers are more likely to succeed in school, career, and beyond.</h3>
+  Horse Plinko is a good time. We believe that professionalism and fun can coexist, and that students involved in an active community of their peers are more likely to succeed in school, career, and beyond.
   </div>
 </div>
