@@ -21,7 +21,7 @@ layout: default
   </div>
 </div>
 
-<div class="container">
+<div class="container container-rev">
   <div class="left-container">
     <h3>Horse Plinko gives players practical cybersecurity experience. We focus on skills that are useful in the industry – Linux/Windows system administration, SIEM and firewall management, best practices like frequent backups and user auditing – and strive to reward players for doing the basics consistently and thoroughly.</h3>
   </div>
