@@ -44,12 +44,3 @@ group: "navigation"
   <h3>Horse Plinko is a good time. We believe that professionalism and fun can coexist, and that students involved in an active community of their peers are more likely to succeed in school, career, and beyond.</h3>
   </div>
 </div>
-
-
-<nav>
-<ul>
-    <li class="downloads"><a href="#">Sponsor Us</a></li>
-    <li class="downloads"><a href="#">Join The Staff</a></li>
-    <li class="downloads"><a href="#">Compete</a></li>
-</ul>
-</nav>
