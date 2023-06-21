@@ -45,3 +45,8 @@ group: "navigation"
   Horse Plinko is a good time. We believe that professionalism and fun can coexist, and that students involved in an active community of their peers are more likely to succeed in school, career, and beyond.
   </div>
 </div>
+
+
+<div class="container">
+<a href='/get-involved' class="big-button">Get Involved</a>
+</div>
