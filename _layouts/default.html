@@ -22,10 +22,11 @@
     <div id="hpcc-header">
       <!--<nav>-->
       <div>
-        {% assign pages_list = site.pages %}
-        {% assign group = 'navigation' %}
-        {% include pages_list %}
-      
+    <a href='/' {% if page.url == '/' %}class='active'{% endif %}>Home</a>
+    <a href='/resources' {% if page.url == '/resources.html' %}class='active'{% endif %}>Resources</a>
+    <a href='/past-winners' {% if page.url == '/past-winners.html' %}class='active'{% endif %}>Past Winners</a>
+    <a href='/get-involved' {% if page.url == '/get-involved.html' %}class='active'{% endif %}>Get Involved</a>
+        
       <!-- </nav>-->
       </div>
     </div><!-- end header -->
