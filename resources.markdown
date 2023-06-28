@@ -20,7 +20,7 @@ If hosting your own virtual machines with Workstation Player or VirtualBox, you 
 ## Blue Team Crash Course
 As part of Hack@UCF's Fall curriculum leading up to HPCC1, we will be teaching the fundamentals of cyber defense on Linux, Windows, and pfSense. As that curriculum is released, it will find a permanent home here.
 
-In the meantime, here is a [short guide](https://docs.google.com/document/d/13Ozs8XY0mEgFQ3cnbVhd5RV3OmBXIBuZMLhPSGonsuE/edit?usp=sharing) written for HPCC0.
+In the meantime, here is a [short guide](https://docs.google.com/document/d/13Ozs8XY0mEgFQ3cnbVhd5RV3OmBXIBuZMLhPSGonsuE/edit?usp=sharing) written for HPCC0. The guide is based on a [talk](assets/Hack@UCF_slides_2023-04-07.pdf) given at one of our general body meetings.
 
 
 
