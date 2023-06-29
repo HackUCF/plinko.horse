@@ -9,7 +9,7 @@ group: "navigation"
 
 <div id="title">
 <h1>HPCC1 is Oct 7-8, 2023</h1>
-<p>(more details coming soon)
+<p>Want to compete? Join our <a href="https://www.hackucf.org/plinko-interest">mailing list</a>
 </p>
 <div>
 
