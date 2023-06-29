@@ -12,6 +12,10 @@ section {
     max-width:1050px;
 }
 
+#title p * {
+  font-size: 18px;
+}
+
 #header {  
     position: absolute;
     display: flex;
@@ -131,19 +135,29 @@ section {
     display: flex;
     align-items: center;
     flex-direction: row;
+    #gap: 50px;
   }
   
   .left-container, .right-container {
     flex: 1;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    #padding: 10px;
   }
   
+  @media (min-width: 769px) {
+    .right-container {
+      margin-left: 20px;
+    }
+  }
   @media (max-width: 768px) {
     .container {
       flex-direction: column;
+      #gap: 50px;
     }
     .container-rev {
       flex-direction: column-reverse;
+      #gap: 50px;
     }
   }
 
