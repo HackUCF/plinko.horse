@@ -10,13 +10,13 @@ group: "navigation"
 ![](assets/hpcc.gif)
 ## Compete
 
-To compete you must be age 18 or older and a registered student of any highschool, college, or university. HPCC1 will be part of the [KnightHacks hackathon](https://2023.knighthacks.org/). HPCC1 is comprised of two categories: **Horse Plinko Yearling**, designed for players who are new to cyber, and **Horse Plinko Stallion**, for players who are experienced in cyber or have done blue team competitions before.
+To compete you must be age 18 or older and a registered student of any highschool, college, or university. HPCC1 will be part of the [KnightHacks hackathon](https://2023.knighthacks.org/). HPCC1 is comprised of two categories: **Horse Plinko Yearling**, designed for players who are new to cybersecurity, and **Horse Plinko Stallion**, for players who are experienced in cybersecurity or have done blue team competitions before.
 
 Registration will open in late summer. If you are interested in participating, **please sign this [interest form](https://www.hackucf.org/plinko-interest)** so we can register you as we get closer to the competition.
 
 ## Become An Organizer
 
-Any UCF student (or incoming UCF student) willing to learn can help organize Horse Plinko. We are seeking students interested in IaC tools like Terraform and Ansible, offensive security, OpenStack, network engineering, and more - no matter what you're interested in, we can probably use your help. To get involved, join the [Hack@UCF Discord server](https://discord.com/invite/VwkkDcJ) and give yourself the Projects role under **#roles**.
+Any UCF student (or incoming UCF student) willing to learn can help organize Horse Plinko. We are seeking students interested in IaC (Infrastructure as Code) tools like Terraform and Ansible, offensive security, OpenStack, network engineering, and more - no matter what you're interested in, we can probably use your help. To get involved, join the [Hack@UCF Discord server](https://discord.com/invite/VwkkDcJ) and give yourself the Projects role under **#roles**.
 
 **Note that while being an organizer does not prevent you from competing in HPCC, it will make you ineligible for placement/prizes that year.**
 

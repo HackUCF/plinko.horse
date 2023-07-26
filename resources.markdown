@@ -17,7 +17,7 @@ You can host virtual machines yourself using software like [VMware Workstation](
 
 If hosting your own virtual machines with Workstation Player or VirtualBox, you will need to get a .iso file that contains the installer for the operating system you chose. For example, Ubuntu ISOs can be acquired [here](https://ubuntu.com/download/desktop). Windows Server ISOs can be downloaded from the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter).
 
-In HPCC0, competitors defended Windows 10, Windows Server 2016, Ubuntu 20, and Centos 7 systems.
+In HPCC0, competitors defended Windows 10, Windows Server 2016, Ubuntu 20, and CentOS 7 systems.
 
 ## Blue Team Crash Course
 As part of Hack@UCF's Fall curriculum leading up to HPCC1, we will be teaching the fundamentals of cyber defense on Linux, Windows, and pfSense. As that curriculum is released, it will find a permanent home here.
