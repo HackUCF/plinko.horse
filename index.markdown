@@ -2,18 +2,50 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: "Home"
 layout: default
+group: "navigation"
 ---
-![](/assets/hpcc.gif)
 
-# This is an urgent message from the International Horse Plinko League.
+<div id="title">
+<h1>HPCC1 is Oct 7-8, 2023</h1>
+<p>Want to compete? Sign our <a href="https://www.hackucf.org/plinko-interest">interest form</a>
+</p>
+<div>
 
-### We are the organizers for the Horse Plinko sport based out of Helsinki, Finland, and we have recently expanded our operations to Orlando due to its tourism reach, strong equestrian economy, and strong industry talents in hospitality, sports, and cybersecurity.
+<img src="/assets/hpcc0_group_overhead.jpg" />
 
-### Unfortunately, horse hacktivists going by “The Horse Liberation Front” are attacking us because they believe that our sport exploits and mistreats their fellow equines (we swear it does not), and are using cyberattacks to disrupt our operations! We have a reason to believe **they have already started their attack and began infecting our servers**. 
+<h2 style="margin-top: 15px; margin-bottom: 15px; text-align: center">The Horse Plinko Cyber Challenge (HPCC) is a student-run cyber defense competition hosted at the University of Central Florida.</h2>
+<div style="margin-top: 15px; margin-bottom: 15px">It is a joint effort between UCF's Collegiate Cybersecurity Competitions (C3) Team and Hack@UCF. In the hackathon spirit, the first HPCC was developed (from conception to competition day) in a little over a month. While the scope has expanded since then, the core principles remain the same.</div>
 
-### Our first Horse Plinko event in Orlando is on **April 25th on UCF campus**. We are on the search for new cyber talent and need your help to defend the network - keeping our critical services online, evicting Horse Liberation Front hackers, and protecting against future attacks. We want our first Florida event to run well, after all!
+<div class="container">
+  <div class="left-container">
+    <img src="/assets/hpcc0_section1.jpg" />
+  </div>
+  <div class="right-container">
+    Horse Plinko is a beginner-friendly event. We work on a “low skill floor, high skill ceiling” basis. New players should feel challenged but not overwhelmed, and experienced players should have a chance to show off their skills.
+  </div>
+</div>
+
+<div class="container container-rev">
+  <div class="left-container">
+  Horse Plinko gives players practical cybersecurity experience. We focus on skills that are useful in the industry (Linux/Windows system administration, SIEM and firewall management, best practices, and more) and strive to reward players for doing the basics consistently and thoroughly.
+  </div>
+  <div class="right-container">  
+    <img src="/assets/hpcc0_section2.jpg" />
+  </div>
+</div>
+
+<div class="container">
+  <div class="left-container">
+    <img src="/assets/hpcc0_section3.jpg" />
+  </div>
+  <div class="right-container">
+  Horse Plinko is a good time. We believe that professionalism and fun can coexist, and that students involved in an active community of their peers are more likely to succeed in school, career, and beyond.
+  </div>
+</div>
 
 
-# Should you accept the challenge, we are accepting applications via the form below:
-# [https://o.hacku.cf/HPCCregistration](https://o.hacku.cf/HPCCregistration)
+<div class="container">
+<a href='/get-involved' class="big-button">Get Involved</a>
+</div>
