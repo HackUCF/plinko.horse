@@ -7,7 +7,7 @@ layout: default
 group: "navigation"
 ---
 
-<img src="https://cdn.discordapp.com/attachments/1101175933681029200/1134562398552989756/hpcc_logo_white.png" height="200" class="center"/>
+<img src="https://cdn.discordapp.com/attachments/1101175933681029200/1134562398552989756/hpcc_logo_white.png" height="200" style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;"/>
 
 <div id="title">
 <h1>HPCC1 is Oct 7-8, 2023</h1>
