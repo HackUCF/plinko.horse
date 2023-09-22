@@ -10,7 +10,7 @@ group: "navigation"
 ![](assets/hpcc.gif)
 ## Compete
 
-To compete you must be age 18 or older and a registered student of any highschool, college, or university. HPCC1 will be part of the [KnightHacks hackathon](https://2023.knighthacks.org/). HPCC1 is comprised of two categories: **Horse Plinko Yearling**, designed for players who are new to cybersecurity, and **Horse Plinko Stallion**, for players who are experienced in cybersecurity or have done blue team competitions before.
+To compete you must be age 18 or older and a registered student of any highschool, college, or university. HPCC1 will be part of the [KnightHacks hackathon](https://2023.knighthacks.org/). HPCC1 is comprised of two runs: one on Saturday Oct. 7th and one on Sunday Oct. 8th. Both runs will be oriented towards beginners and more skilled competitors alike.
 
 Registration will open in late summer. If you are interested in participating, **please sign this [interest form](https://www.hackucf.org/plinko-interest)** so we can register you as we get closer to the competition.
 
