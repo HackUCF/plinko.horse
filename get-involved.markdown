@@ -23,9 +23,9 @@ Any UCF student (or incoming UCF student) willing to learn can help organize Hor
 ## Sponsor Us
 Sponsors are what keep us running! Every donation is greatly appreciated and recognized as a contribution to our continued success. HPCC has different tiers of sponsorship packages, including a logo on the competition shirts, tabling and speaking opportunities, and even a peg on our real-life plinko board that competition winners get to sign. Properly designated donations made through the Collegiate Cyber Defense Club Incorporated, a 501(c)(3) non-profit organization, may be tax deductible. For more information on how to become a sponsor, please contact [sponsorship@hackucf.org](mailto:sponsorship@hackucf.org).
 
-<div class="container">
-<a href='https://hackucf.org/plinko-interest' class="big-button">Sign our Interest Form</a>
-</div>
+<!--div class="container">
+< a href='https://hackucf.org/plinko-interest' class="big-button">Sign our Interest Form</a>
+</div-->
 
 <style>
 img {
