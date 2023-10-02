@@ -11,8 +11,7 @@ group: "navigation"
 
 <div id="title">
 <h1>HPCC1 is Oct 7-8, 2023</h1>
-<!-- <p>Want to compete? Sign our <a href="https://www.hackucf.org/plinko-interest">interest form</a> -->
-</p>
+<!-- <p>Want to compete? Sign our <a href="https://www.hackucf.org/plinko-interest">interest form</a></p> -->
 <div>
 
 <img src="/assets/hpcc0_group_overhead.jpg" />
