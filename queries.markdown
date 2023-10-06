@@ -17,13 +17,16 @@ host="DNS" Account_Name=Administrator
 ```
 ## Query 3
 ```splunk
-host="game.team6.plinko.horse" res=failed acct!=hkeating
+host="game.teamt.plinko.horse" res=failed acct!=hkeating
 ```
+(Remember to replace "`teamt`" with your team's specific name)
 ## Query 4
 ```splunk
-host="game.team6.plinko.horse" addr!=172.16.255.221 addr!="::ffff:172.16.255.221"
+host="game.teamt.plinko.horse" addr!=172.16.255.221 addr!="::ffff:172.16.255.221"
 ```
+(Remember to replace "`teamt`" with your team's specific name)
 ## Query 5
 ```splunk
-host="db.team6.plinko.horse" exe="/usr/bin/sudo"
+host="db.teamt.plinko.horse" exe="/usr/bin/sudo"
 ```
+(Remember to replace "`teamt`" with your team's specific name) 
