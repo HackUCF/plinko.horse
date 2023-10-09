@@ -64,7 +64,7 @@ Competitors are listed alphabetically by last name.
 </div>
 
 <div class="list-container">
-<h4>3rd Place - Team 4 "LE MONKES"</h4>
+<h4>3rd Place - Team 4 "The Jesse Plinkmans"</h4>
 <ul>
 <li>Soleil Cordray	</li>
 <li>Amogh Nellutla	</li>
