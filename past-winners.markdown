@@ -33,7 +33,7 @@ Competitors are listed alphabetically by last name.
 <div class="list-container">
 <h4>3rd Place - Team 7 "Steamed LANs"</h4>
 <ul>
-<li>Caleb Sean Feng	</li>
+<li>Caleb Feng	</li>
 <li>Matt Mato	</li>
 <li>Mark Slover	</li>
 <li>Nathan Spees	</li>
