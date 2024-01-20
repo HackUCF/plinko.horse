@@ -10,7 +10,7 @@ group: "navigation"
 <img src="/assets/hpcc_logo_dark.svg" height="200" class="center"/>
 
 <div id="title">
-<h1>HPCC1 is Oct 7-8, 2023</h1>
+<h1>HPCC2 is October 11-13, 2024</h1>
 <!-- <p>Want to compete? Sign our <a href="https://www.hackucf.org/plinko-interest">interest form</a></p> -->
 <div>
 
