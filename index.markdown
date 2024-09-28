@@ -21,7 +21,7 @@ group: "navigation"
 
 <div class="container">
   <div class="left-container">
-    <img src="/assets/hpcc0_section1.jpg" />
+    <img src="/assets/hpcc1_section1.jpg" />
   </div>
   <div class="right-container">
     Horse Plinko is a beginner-friendly event. We work on a “low skill floor, high skill ceiling” basis. New players should feel challenged but not overwhelmed, and experienced players should have a chance to show off their skills.
@@ -33,7 +33,7 @@ group: "navigation"
   Horse Plinko gives players practical cybersecurity experience. We focus on skills that are useful in the industry (Linux/Windows system administration, SIEM and firewall management, best practices, and more) and strive to reward players for doing the basics consistently and thoroughly.
   </div>
   <div class="right-container">  
-    <img src="/assets/hpcc0_section2.jpg" />
+    <img src="/assets/hpcc1_section2.jpg" />
   </div>
 </div>
 
