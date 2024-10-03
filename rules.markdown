@@ -24,6 +24,8 @@ Competitors are expected to abide by the following rules (this list is from the 
 
 8.  **Please be nice to everyone.** Do not be rude to the Red Team, Black Team, White Team, or fellow Blue Team members. Do not attempt to social engineer competition organizers; what you say to White or Black Team will not be shared with the Red Team.
 
-9.  **Have fun!** The ultimate goal is to learn, so please show good sportsmanship throughout the competition, even when things are tough.
+9.  **We reserve the right to disqualify any individual or team** that we, in our sole discretion, hold to be too experienced for the level of difficulty targeted in this beginner-oriented competition. If in doubt, reach out.
+
+10.  **Have fun!** The ultimate goal is to learn, so please show good sportsmanship throughout the competition, even when things are tough.
 
 *Failure to comply with the above rules will lead to disqualification. For any clarification on the rules, please ask a White Team member. And yes, failing to have fun is a disqualifiable offense. We take our fun seriously at the IHPL.*
