@@ -6,77 +6,90 @@ title: "Past Winners"
 layout: default
 group: "navigation"
 ---
-Competitors are listed alphabetically by last name.
+
+<div class="container">
+  <div class="left-container">
+    <img src="/assets/pastwinners_overhead_day1.jpg" />
+  </div>
+  <div class="right-container">
+    <img src="/assets/pastwinners_overhead_day2.jpg" />
+  </div>
+</div>
+
 ### HPCC1, October 2023, Sunday Run
+Competitors are listed alphabetically by last name.
 
-
-<div class="list-container">
-<h4>1st Place - Team 4 "THE PLINKMEN"</h4>
-<ul>
-<li>Conner Harbaugh</li>
-<li>Kevin Kiderchah</li>
-<li>Ardian Peach</li>
-<li>Jonathan Styles</li>
-</ul>
-</div>
-
-<div class="list-container">
-<h4>2nd Place - Team 6 "goob"</h4>
-<ul>
-<li>Anthony Marrongelli</li>
-<li>Karsten McClard</li>
-<li>Nolan Metcalf	</li>
-<li>Jacob Stella	</li>
-</ul>
-</div>
-
-<div class="list-container">
-<h4>3rd Place - Team 7 "Steamed LANs"</h4>
-<ul>
-<li>Caleb Feng	</li>
-<li>Matt Mato	</li>
-<li>Mark Slover	</li>
-<li>Nathan Spees	</li>
-</ul>
+<div class="container">
+    <div class="list-container">
+    <h4>1st Place - Team 4 "THE PLINKMEN"</h4>
+    <ul>
+    <li>Conner Harbaugh</li>
+    <li>Kevin Kiderchah</li>
+    <li>Ardian Peach</li>
+    <li>Jonathan Styles</li>
+    </ul>
+    <img src="/assets/pastwinners_team4_day2.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>2nd Place - Team 6 "goob"</h4>
+    <ul>
+    <li>Anthony Marrongelli</li>
+    <li>Karsten McClard</li>
+    <li>Nolan Metcalf	</li>
+    <li>Jacob Stella	</li>
+    </ul>
+    <img src="/assets/pastwinners_team6_day2.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>3rd Place - Team 7 "Steamed LANs"</h4>
+    <ul>
+    <li>Caleb Feng	</li>
+    <li>Matt Mato	</li>
+    <li>Mark Slover	</li>
+    <li>Nathan Spees	</li>
+    </ul>
+    <img src="/assets/pastwinners_team7_day2.jpg" />
+    </div>
 </div>
 
 <p> </p>
 ### HPCC1, October 2023, Saturday Run
 
-
-<div class="list-container">
-<h4>1st Place - Team 9 "Enumclaw Engineers"</h4>
-<ul>
-<li>Anahel Bour	</li>
-<li>Rob Boyd	</li>
-<li>Zachary Collins	</li>
-<li>Albert Jojo	</li>
-</ul>
-</div>
-
-<div class="list-container">
-<h4>2nd Place - Team 10 "42.zip"</h4>
-<ul>
-<li>Rodrigo Almeida Santos	</li>
-<li>Jake Herrington	</li>
-<li>Reece Pounder	</li>
-<li>Jarius Williams	</li>
-</ul>
-</div>
-
-<div class="list-container">
-<h4>3rd Place - Team 4 "The Jesse Plinkmans"</h4>
-<ul>
-<li>Soleil Cordray	</li>
-<li>Amogh Nellutla	</li>
-<li>Bridget Suski	</li>
-<li>Joseph Wiendl</li>
-</ul>
+<div class="container">
+    <div class="list-container">
+    <h4>1st Place - Team 9 "Enumclaw Engineers"</h4>
+    <ul>
+    <li>Anahel Bour	</li>
+    <li>Rob Boyd	</li>
+    <li>Zachary Collins	</li>
+    <li>Albert Jojo	</li>
+    </ul>
+    <img src="/assets/pastwinners_team9_day1.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>2nd Place - Team 10 "42.zip"</h4>
+    <ul>
+    <li>Rodrigo Almeida Santos	</li>
+    <li>Jake Herrington	</li>
+    <li>Reece Pounder	</li>
+    <li>Jarius Williams	</li>
+    </ul>
+    <img src="/assets/pastwinners_team10_day1.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>3rd Place - Team 4 "The Jesse Plinkmans"</h4>
+    <ul>
+    <li>Soleil Cordray	</li>
+    <li>Amogh Nellutla	</li>
+    <li>Bridget Suski	</li>
+    <li>Joseph Wiendl</li>
+    </ul>
+    <img src="/assets/pastwinners_team4_day1.jpg" />
+    </div>
 </div>
 
 <p> </p>
 ### HPCC0, May 2023
-
 
 <div class="list-container">
 <h4>1st Place - Team 1 "Dolphins"</h4>
