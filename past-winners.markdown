@@ -63,6 +63,7 @@ Competitors are listed alphabetically by last name.
     <li>Kevin Bernichio</li>
     <li>Gabriel Edwards</li>
     <li>Muhammad Ali</li>
+    <li>            </li>
     </ul>
     <img src="/assets/pastwinners_hpcc2_team10_day1.jpg" />
     </div>
