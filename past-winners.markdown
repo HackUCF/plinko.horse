@@ -19,7 +19,7 @@ Competitors are listed alphabetically by last name.
     <li>Cooper Wiendl</li>
     <li>Josh Feldman</li>
     </ul>
-    <img src="/assets/pastwinners_hpcc2_team20_day1.jpg" />
+    <img src="/assets/pastwinners_hpcc2_team8_day2.jpg" />
     </div>
     <div class="list-container">
     <h4>2nd Place - Team 7 "Knight Runners"</h4>
@@ -29,7 +29,7 @@ Competitors are listed alphabetically by last name.
     <li>Carson Scohera</li>
     <li>Noah Adkins</li>
     </ul>
-    <img src="/assets/pastwinners_hpcc2_team10_day1.jpg" />
+    <img src="/assets/pastwinners_hpcc2_team7_day2.jpg" />
     </div>
     <div class="list-container">
     <h4>3rd Place - Team 4 "the beards"</h4>
@@ -39,7 +39,7 @@ Competitors are listed alphabetically by last name.
     <li>Ty Singh</li>
     <li>Toshi Kirton</li>
     </ul>
-    <img src="/assets/pastwinners_hpcc2_team11_day1.jpg" />
+    <img src="/assets/pastwinners_hpcc2_team4_day2.jpg" />
     </div>
 </div>
 
@@ -55,7 +55,7 @@ Competitors are listed alphabetically by last name.
     <li>Jake Hudson</li>
     <li>Anna Zoorob</li>
     </ul>
-    <img src="/assets/pastwinners_hpcc2_team8_day2.jpg" />
+    <img src="/assets/pastwinners_hpcc2_team20_day1.jpg" />
     </div>
     <div class="list-container">
     <h4>2nd Place - Team 10 "Malwhere"</h4>
@@ -64,7 +64,7 @@ Competitors are listed alphabetically by last name.
     <li>Gabriel Edwards</li>
     <li>Muhammad Ali</li>
     </ul>
-    <img src="/assets/pastwinners_hpcc2_team7_day2.jpg" />
+    <img src="/assets/pastwinners_hpcc2_team10_day1.jpg" />
     </div>
     <div class="list-container">
     <h4>3rd Place - Team 11 "Plague"</h4>
@@ -74,7 +74,7 @@ Competitors are listed alphabetically by last name.
     <li>Ayla Bratton</li>
     <li>Kenny Nguyen</li>
     </ul>
-    <img src="/assets/pastwinners_hpcc2_team4_day2.jpg" />
+    <img src="/assets/pastwinners_hpcc2_team11_day1.jpg" />
     </div>
 </div>
 
