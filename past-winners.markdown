@@ -79,15 +79,6 @@ Competitors are listed alphabetically by last name.
     </div>
 </div>
 
-<div class="container">
-  <div class="left-container">
-    <img src="/assets/pastwinners_overhead_day1.jpg" />
-  </div>
-  <div class="right-container">
-    <img src="/assets/pastwinners_overhead_day2.jpg" />
-  </div>
-</div>
-
 ### HPCC1, October 2023, Sunday Run
 Competitors are listed alphabetically by last name.
 
