@@ -7,6 +7,77 @@ layout: default
 group: "navigation"
 ---
 
+### HPCC2, October 2024, Sunday Run
+Competitors are listed alphabetically by last name.
+
+<div class="container">
+    <div class="list-container">
+    <h4>1st Place - Team 8 "goob"</h4>
+    <ul>
+    <li>Karsten	McClard</li>
+    <li>Andrew Wiendl</li>
+    <li>Cooper Wiendl</li>
+    <li>Josh Feldman</li>
+    </ul>
+    <img src="/assets/pastwinners_hpcc2_team20_day1.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>2nd Place - Team 7 "Knight Runners"</h4>
+    <ul>
+    <li>Nathan Hicks</li>
+    <li>Joshua Pack</li>
+    <li>Carson Scohera</li>
+    <li>Noah Adkins</li>
+    </ul>
+    <img src="/assets/pastwinners_hpcc2_team10_day1.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>3rd Place - Team 4 "the beards"</h4>
+    <ul>
+    <li>Carson Prewitt</li>
+    <li>David Gusmao</li>
+    <li>Ty Singh</li>
+    <li>Toshi Kirton</li>
+    </ul>
+    <img src="/assets/pastwinners_hpcc2_team11_day1.jpg" />
+    </div>
+</div>
+
+### HPCC2, October 2024, Saturday Run
+Competitors are listed alphabetically by last name.
+
+<div class="container">
+    <div class="list-container">
+    <h4>1st Place - Team 20 "Phish"</h4>
+    <ul>
+    <li>Garrett Webb</li>
+    <li>Julian Ibarra-Moulier</li>
+    <li>Jake Hudson</li>
+    <li>Anna Zoorob</li>
+    </ul>
+    <img src="/assets/pastwinners_hpcc2_team8_day2.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>2nd Place - Team 10 "Malwhere"</h4>
+    <ul>
+    <li>Kevin Bernichio</li>
+    <li>Gabriel Edwards</li>
+    <li>Muhammad Ali</li>
+    </ul>
+    <img src="/assets/pastwinners_hpcc2_team7_day2.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>3rd Place - Team 11 "Plague"</h4>
+    <ul>
+    <li>Tabur Salmon</li>
+    <li>Jacob Salmon</li>
+    <li>Ayla Bratton</li>
+    <li>Kenny Nguyen</li>
+    </ul>
+    <img src="/assets/pastwinners_hpcc2_team4_day2.jpg" />
+    </div>
+</div>
+
 <div class="container">
   <div class="left-container">
     <img src="/assets/pastwinners_overhead_day1.jpg" />
