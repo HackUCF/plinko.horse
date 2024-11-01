@@ -60,10 +60,10 @@ Competitors are listed alphabetically by last name.
     <div class="list-container">
     <h4>2nd Place - Team 10 "Malwhere"</h4>
     <ul>
+    <li>Alfredo A.</li>
     <li>Muhammad Ali</li>
     <li>Kevin Bernichio</li>
     <li>Gabriel Edwards</li>
-    <li>            </li>
     </ul>
     <img src="/assets/pastwinners_hpcc2_team10_day1.jpg" />
     </div>
