@@ -10,11 +10,11 @@ group: "navigation"
 ![](assets/hpcc.gif)
 ## Compete
 
-To compete you must be age 18 or older and a registered student of any highschool, college, or university. HPCC2 will be part of the [KnightHacks VII hackathon](https://2024.knighthacks.org). 
+To compete you must be age 18 or older and a registered student of any highschool, college, or university.
 
-HPCC2 is comprised of two identical runs: one on Saturday Oct. 5th and one on Sunday Oct. 6th. Both runs will be oriented towards beginners and more skilled competitors alike.
+HPCC is comprised of two identical runs: one on Saturday and one on Sunday. Both runs will be oriented towards beginners and more skilled competitors alike.
 
-To sign up, register for the Knight Hacks VII hackathon [here](https://2024.knighthacks.org). After you create your user profile, check the box that says "I am interested in participating in Hack@UCF's Horse Plinko event." We'll contact you closer to the event to register for HPCC2. 
+For more information on how to sign up, join the [Hack@UCF Discord server](https://discord.com/invite/VwkkDcJ) to stay posted on any announcements as HPCC3 approaches. 
 
 ## Become An Organizer
 
