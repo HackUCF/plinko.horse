@@ -10,7 +10,7 @@ group: "navigation"
 <img src="/assets/hpcc_logo_dark.svg" height="200" class="center"/>
 
 <div id="title">
-<h1>HPCC3 coming in Fall 2025</h1>
+<h1>HPCC3 on October 11th & 12th, 2025.</h1>
 <div>
 
 <img src="/assets/HPCC2_SundayRunAll_Photo.jpg" />
