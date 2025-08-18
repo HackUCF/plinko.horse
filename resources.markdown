@@ -45,7 +45,9 @@ https://www.youtube.com/watch?v=hGbGcp_V8W4
 
 ## Windows Security Resources
 
-TryHackMe has a bunch of free windows threat hunting/forensics rooms. Toggle free only subscription type, blue team pov, and search windows.
+TryHackMe has a bunch of free Windows threat hunting/forensics rooms. Toggle free only subscription type, blue team pov, and search 
+windows. There are also a few great Linux security rooms too.
+
 https://tryhackme.com/hacktivities/search
 
 https://www.youtube.com/watch?v=mTWeU4HtNj0
@@ -63,3 +65,4 @@ https://www.youtube.com/watch?v=67z9PyYjtzo
 https://www.youtube.com/watch?v=dp5cOVEtTSI
 
 https://www.youtube.com/watch?v=dpeTH49soMk 
+
