@@ -9,7 +9,7 @@ group: "navigation"
 
 
 ## Setting up a VM
-The best way to learn it to get hands-on. 
+The best way to learn it to get hands-on.
 
 Virtualization provides a way to run a simulated "guest" system on your "host" device. These guest systems are called virtual machines. Virtual machines (VMs) allow you to experiment with a different (or same) operating system in an isolated environment, where what you do can't harm your host device.
 
@@ -22,7 +22,7 @@ In HPCC0, competitors defended Windows 10, Windows Server 2016, Ubuntu 20, and C
 ## Blue Team Crash Course
 As part of Hack@UCF's Fall curriculum leading up to HPCC1, we will be teaching the fundamentals of cyber defense on Linux, Windows, and pfSense. As that curriculum is released, it will find a permanent home here.
 
-In the meantime, here is a [short guide](https://docs.google.com/document/d/13Ozs8XY0mEgFQ3cnbVhd5RV3OmBXIBuZMLhPSGonsuE/edit?usp=sharing) written for HPCC0. The guide is based on a [talk](assets/Hack@UCF_slides_2023-04-07.pdf) given at one of our general body meetings. 
+In the meantime, here is a [short guide](https://docs.google.com/document/d/13Ozs8XY0mEgFQ3cnbVhd5RV3OmBXIBuZMLhPSGonsuE/edit?usp=sharing) written for HPCC0. The guide is based on a [talk](assets/Hack@UCF_slides_2023-04-07.pdf) given at one of our general body meetings.
 
 ## Linux Security Resources
 The overall winning team from 2023 gave a GBM on how they did it, as well as a blog post.
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=7eBdm9UYhug
 
 These links are also very good.
 
-https://sourque.com/blog/securing-a-linux-server/ 
+https://sourque.com/blog/securing-a-linux-server/
 
 https://linuxjourney.com
 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=hGbGcp_V8W4
 
 ## Windows Security Resources
 
-TryHackMe has a bunch of free Windows threat hunting/forensics rooms. Toggle free only subscription type, blue team pov, and search 
+TryHackMe has a bunch of free Windows threat hunting/forensics rooms. Toggle free only subscription type, blue team pov, and search
 windows. There are also a few great Linux security rooms too.
 
 https://tryhackme.com/hacktivities/search
@@ -64,5 +64,11 @@ https://www.youtube.com/watch?v=67z9PyYjtzo
 
 https://www.youtube.com/watch?v=dp5cOVEtTSI
 
-https://www.youtube.com/watch?v=dpeTH49soMk 
+https://www.youtube.com/watch?v=dpeTH49soMk
 
+## Archive of Blue Team Packets
+
+Take a look at the old Blue Team packets from previous years.
+
+[HPCC1](https://docs.google.com/document/d/1p81x_F_qo01ULRClNgW039kbOf_zyx-Nm7iPqWwVf6s/edit?usp=sharing) [PDF](./assets/HPCC1 Blue Team Packet.pdf)
+[HPCC2](https://docs.google.com/document/d/1qjwtu8gpzkxRIzSflSgdKfvOecLY_CFRlku64BFLPZg/edit?usp=sharing) [PDF](./assets/HPCC2 Blue Team Packet.pdf)
