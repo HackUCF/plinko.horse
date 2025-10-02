@@ -76,5 +76,9 @@ https://www.youtube.com/watch?v=dpeTH49soMk
 Take a look at the old Blue Team packets from previous years.
 
 [HPCC1](https://docs.google.com/document/d/1p81x_F_qo01ULRClNgW039kbOf_zyx-Nm7iPqWwVf6s/edit?usp=sharing) [PDF](./assets/HPCC1 Blue Team Packet.pdf)
+
+
 [HPCC2](https://docs.google.com/document/d/1qjwtu8gpzkxRIzSflSgdKfvOecLY_CFRlku64BFLPZg/edit?usp=sharing) [PDF](./assets/HPCC2 Blue Team Packet.pdf)
 
+
+[HPCC3](https://plinko.horse/packet)
