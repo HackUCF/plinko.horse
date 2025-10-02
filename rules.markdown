@@ -10,7 +10,7 @@ Competitors are expected to abide by the following rules (this list is from the 
 
 1. **Do not attack infrastructure.** WiFi connections, our virtualization platform OpenStack, scoring agents, scoring platforms, and other competition infrastructure are *explicitly* out of scope. Additionally, do not touch the environments of other teams. If you are found to be attacking or interfering with another competition team, *you will be instantly disqualified*.
 
-2. **Stay in scope.** Only interact with assets that are explicitly in-scope for your team. In-person, in-character interactions with staff of the IHPL (that is, *not* Red Team) are out of scope, and are merely for immersion and fun. Scope will be explained in further detail [here](#scope).
+2. **Stay in scope.** Only interact with assets that are explicitly in-scope for your team. In-person, in-character interactions with staff of the IHPL (that is, *not* Red Team) are out of scope, and are merely for immersion and fun. Scope will be explained in further detail [here](https://docs.google.com/document/d/1h3O9j2TszS4b1T6N15X5Osj6SZRtNNC9GiwNgdW53AI/edit?tab=t.0#heading=h.5pot9u5hi9f4).
 
 3. **Do not exfiltrate company data.** You are not allowed to copy data from the competition environment to your personal device or external websites.
 
