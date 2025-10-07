@@ -16,7 +16,7 @@ Competitors are expected to abide by the following rules (this list is from the 
 
 4. **Respect time-out periods.** During any official breaks, you are not allowed to interact with your environment. Your environment will be automatically closed during these periods. Meet with sponsors, network with others, and relax.
 
-5. **You can use the Internet...** Tools or scripts that are publicly available **and** free are allowed. *Paid tools are not*, including Pro memberships of ChatGPT, Claude, Kagi, or other premium online services. Searching for information you do not know is encouraged, and may even be necessary\! Printed reference materials are also permitted.
+5. **You can use the Internet...** Tools or scripts that are publicly available **and** free are allowed. *Paid tools are not*, including Pro memberships of ChatGPT, Claude, Kagi, or other premium online services. Searching for information you do not know is encouraged, and may even be necessary\! Printed reference materials are also permitted. Scripts created by your team do not have to be public.
 
 6. **…but you cannot plagiarize.** Submitting injects with information copied verbatim from the Internet is strictly prohibited. Additionally, utilizing any AI tools to generate responses for injects (including ChatGPT, Claude, Gemini, and Bing Chat) is prohibited.
 
