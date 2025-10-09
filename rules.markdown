@@ -12,7 +12,7 @@ Competitors are expected to abide by the following rules (this list is from the 
 
 2. **Stay in scope.** Only interact with assets that are explicitly in-scope for your team. In-person, in-character interactions with staff of the IHPL (that is, *not* Red Team) are out of scope, and are merely for immersion and fun. Scope will be explained in further detail [here](https://docs.google.com/document/d/1h3O9j2TszS4b1T6N15X5Osj6SZRtNNC9GiwNgdW53AI/edit?tab=t.0#heading=h.5pot9u5hi9f4).
 
-3. **Do not exfiltrate company data.** You are not allowed to copy data from the competition environment to your personal device or external websites.
+3. **Do not exfiltrate company data or replace mandated services.** You are not allowed to copy data from the competition environment to your personal device or external websites, nor can you replace scored services with different ones (e.g. changing Apache to nginx).
 
 4. **Respect time-out periods.** During any official breaks, you are not allowed to interact with your environment. Your environment will be automatically closed during these periods. Meet with sponsors, network with others, and relax.
 
