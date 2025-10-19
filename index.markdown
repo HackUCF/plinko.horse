@@ -10,10 +10,10 @@ group: "navigation"
 <img src="/assets/hpcc_logo_dark.svg" height="200" class="center"/>
 
 <div id="title">
-<h1>HPCC3 on October 11th & 12th, 2025.</h1>
+<h1>HPCC4 coming Fall 2026!</h1>
 <div>
 
-<img src="/assets/HPCC2_SundayRunAll_Photo.jpg" />
+<img src="/assets/hpcc3group.jpg" />
 
 <h2 style="margin-top: 15px; margin-bottom: 15px; text-align: center">The Horse Plinko Cyber Challenge (HPCC) is a student-run cyber defense competition hosted at the University of Central Florida.</h2>
 <div style="margin-top: 15px; margin-bottom: 15px">It is a joint effort between UCF's Collegiate Cybersecurity Competitions (C3) Team and Hack@UCF. In the hackathon spirit, the first HPCC was developed (from conception to competition day) in a little over a month. While the scope has expanded since then, the core principles remain the same.</div>
