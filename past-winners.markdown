@@ -7,6 +7,78 @@ layout: default
 group: "navigation"
 ---
 
+### HPCC3, October 2025, Sunday Run
+Competitors are listed alphabetically by first name.
+
+<div class="container">
+    <div class="list-container">
+    <h4>1st Place - Team 10 "PlinkU"</h4>
+    <ul>
+    <li>Angie Jiang</li>
+    <li>Ilarya Franco</li>
+    <li>Isabella Sanglade</li>
+    <li>Samantha Quan</li>
+    </ul>
+    <img src="/assets/Sun1st2025.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>2nd Place - Team 5 "Student Support Desk"</h4>
+    <ul>
+    <li>Carson Scohera</li>
+    <li>Michael Rivera</li>
+    <li>Noah Adkins</li>
+    <li>Tiago Sabbioni</li>
+    </ul>
+    <img src="/assets/Sun2nd2025.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>3rd Place - Team 3 "Gamers Against Horses"</h4>
+    <ul>
+    <li>Aidan Cassidy</li>
+    <li>Declan Cassidy</li>
+    <li>Gabriel Uehlein</li>
+    <li>Kyle Popfinger</li>
+    </ul>
+    <img src="/assets/Sun3rd2025.jpg" />
+    </div>
+</div>
+
+### HPCC3, October 2025, Saturday Run
+Competitors are listed alphabetically by first name.
+
+<div class="container">
+    <div class="list-container">
+    <h4>1st Place - Team 18 "Wojtek the Solder Bear"</h4>
+    <ul>
+    <li>Akhilesh Kudaravalli</li>
+    <li>Stephan Sinclair</li>
+    <li>Thomas Boudreau</li>
+    <li>Victor Peinado</li>
+    </ul>
+    <img src="/assets/Sat1st2025.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>2nd Place - Team 16 "Mustard"</h4>
+    <ul>
+    <li>Charles Faso</li>
+    <li>Ilan Szabo</li>
+    <li>Joshua Algee</li>
+    <li>Mahaan Manda</li>
+    </ul>
+    <img src="/assets/Sat2nd2025.jpg" />
+    </div>
+    <div class="list-container">
+    <h4>3rd Place - Team 29 "Guardians of Gahoole"</h4>
+    <ul>
+    <li>Caius Pelish</li>
+    <li>Jonathan Mazurkiewicz</li>
+    <li>Normil Luccin</li>
+    <li>Ryan Bauer</li>
+    </ul>
+    <img src="/assets/Sat3rd2025.jpg" />
+    </div>
+</div>
+
 ### HPCC2, October 2024, Sunday Run
 Competitors are listed alphabetically by last name.
 
@@ -183,4 +255,5 @@ Competitors are listed alphabetically by last name.
 <li>Andy Pompura</li>
 </ul>
 </div>
+
 
