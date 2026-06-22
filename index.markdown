@@ -10,7 +10,7 @@ group: "navigation"
 <img src="/assets/hpcc_logo_dark.svg" height="200" class="center"/>
 
 <div id="title">
-<h1>HPCC4 coming Fall 2026!</h1>
+<h1>HPCC4 is Oct 17th & 18th!</h1>
 <div>
 
 <img src="/assets/hpcc3group.jpg" />
