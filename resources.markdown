@@ -81,4 +81,4 @@ Take a look at the old Blue Team packets from previous years.
 [HPCC2](https://docs.google.com/document/d/1qjwtu8gpzkxRIzSflSgdKfvOecLY_CFRlku64BFLPZg/edit?usp=sharing) [PDF](./assets/HPCC2 Blue Team Packet.pdf)
 
 
-[HPCC3](https://plinko.horse/packet)
+[HPCC3](https://docs.google.com/document/d/1h3O9j2TszS4b1T6N15X5Osj6SZRtNNC9GiwNgdW53AI/edit?usp=sharing) [PDF](./assets/HPCC3 Blue Team Packet.pdf)
