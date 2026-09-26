@@ -12,9 +12,9 @@ group: "navigation"
 <div id="title">
 <h1>HPCC4 is Oct 17th & 18th!</h1>
 <div>
-<div id="title">
-<h1><a href="https://hr.plinko.horse" style="color: #d2990b; font-weight: bold;">Register Now!</a></h1>
-<div>
+<div class="register">
+<h1><a href="https://hr.plinko.horse" style="color: #d2990b; font-weight: bold; font-size: 3em;">Register Now!</a></h1>
+</div>
 
 <img src="/assets/hpcc3group.jpg" />
 
