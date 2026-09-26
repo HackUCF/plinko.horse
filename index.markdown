@@ -13,6 +13,8 @@ group: "navigation"
 <h1>HPCC4 is Oct 17th & 18th!</h1>
 <div>
 
+<h1><a href="https://hr.plinko.horse" style="color: #d2990b; font-weight: bold;">Register Now!</a></h1>
+
 <img src="/assets/hpcc3group.jpg" />
 
 <h2 style="margin-top: 15px; margin-bottom: 15px; text-align: center">The Horse Plinko Cyber Challenge (HPCC) is a student-run cyber defense competition hosted at the University of Central Florida.</h2>
