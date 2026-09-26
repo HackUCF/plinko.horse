@@ -11,6 +11,7 @@ group: "navigation"
 
 <div id="title">
 <h1>HPCC4 is Oct 17th & 18th!</h1>
+<p class="subtitle">at UCF FAIRWINDS Alumni Center</p>
 <div>
 
 <img src="/assets/hpcc3group.jpg" />
