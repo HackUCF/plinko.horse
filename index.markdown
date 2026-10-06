@@ -10,7 +10,7 @@ group: "navigation"
 <img src="/assets/hpcc_logo_dark.svg" height="200" class="center"/>
 
 <div id="title">
-<h1>HPCC4 is Oct 17th & 18th!</h1>
+<h1>HPCC4 is Oct 17th & 18th! (@ the UCF Fairwinds Alumni Center)</h1>
 <div>
 <div class="register">
 <h1><a href="https://hr.plinko.horse" style="color: #d2990b; font-weight: bold; font-size: 1em; text-decoration: underline;">Register Now!</a></h1>
