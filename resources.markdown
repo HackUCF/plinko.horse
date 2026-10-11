@@ -21,7 +21,7 @@ If hosting your own virtual machines with Workstation Player or VirtualBox, you 
 
 
 ## Blue Team Crash Course
-As part of Hack@UCF's Fall curriculum leading up to HPCC3, we will be teaching the fundamentals of cyber defense on Linux and Windows.
+As part of Hack@UCF's Fall curriculum leading up to HPCC4, we will be teaching the fundamentals of cyber defense on Linux and Windows.
 
 A good place to start is the Hack@UCF Presentation Materials channel located in our [discord server](https://hackucf.org/discord) [direct channel link](https://discord.com/channels/220332770914729984/1147577331586699365).
 
@@ -82,3 +82,5 @@ Take a look at the old Blue Team packets from previous years.
 
 
 [HPCC3](https://docs.google.com/document/d/1h3O9j2TszS4b1T6N15X5Osj6SZRtNNC9GiwNgdW53AI/edit?usp=sharing) [PDF](./assets/HPCC3 Blue Team Packet.pdf)
+
+[HPCC4](https://docs.google.com/document/d/1UoIUzikU8PzrNxN7YdaB2BD35kfBrQLrgFNYRcQJfbc/edit?usp=sharing)
