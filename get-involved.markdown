@@ -10,6 +10,8 @@ group: "navigation"
 ![](assets/hpcc.gif)
 ## Compete
 
+Horse Plinko is built for beginners. If you're a high school, college, or university student — or just new to cybersecurity and want to learn — you're welcome to compete.
+
 HPCC is comprised of two identical runs: one on Saturday and one on Sunday. Both runs will be oriented towards beginners and more skilled competitors alike.
 
 For more information on how to sign up, join the [Hack@UCF Discord server](https://hackucf.org/discord) to stay posted on any announcements as HPCC4 approaches. 
