@@ -10,8 +10,9 @@ group: "navigation"
 <img src="/assets/hpcc_logo_dark.svg" height="200" class="center"/>
 
 <div id="title">
-<h1>HPCC5 is Fall 2027!
+<h1>HPCC5 is Fall 2027! 
 <div>
+
 
 <img src="/assets/hpcc3group.jpg" />
 
